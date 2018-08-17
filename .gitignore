@@ -3,4 +3,5 @@
 .sass-cache
 .jekyll-metadata
 *.iml
+debug.log
 
