@@ -1,0 +1,7 @@
+version: '3' # specify docker-compose version
+
+services:
+  jekyllcreate:
+    image: jekyll/jekyll:latest
+    volumes:
+      - $PWD:/srv/jekyll
