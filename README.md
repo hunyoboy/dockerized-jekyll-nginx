@@ -1,5 +1,5 @@
 # Dockerized Jekyll And Nginx
- - A framework to run a Jekyll site served on Nginx using Docker build. 
+ - A template to run a Jekyll site served on Nginx using Docker build. 
 
 ### Creating A New Jekyll Blog
 1. Ensure **Docker** is installed on your computer/server. 
